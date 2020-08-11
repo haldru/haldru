@@ -15,7 +15,7 @@ knitr::opts_chunk$set(
 
 # haldru
 
-With the help of authority numbers the R package `haldru` provides access to authority data of printers active in Halle (Saale) during the 16th, 17th and 18th centuries as well as to bibliographic data of their prints.
+With the help of identifiers from the Integrated Authority File (GND) and library catalog databases (VD17, VD18) the R package `haldru` provides access to entity data of printers active in Halle (Saale) during the 16th, 17th and 18th centuries as well as to bibliographic data of their prints.
 
 <!-- badges: start -->
 <!-- badges: end -->
