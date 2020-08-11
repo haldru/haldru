@@ -1,0 +1,11 @@
+#!/usr/bin/env Rscript
+cat("start building data sets!\n\n")
+cat("Benzing (1977) ...\n")
+source("data-raw/benzing1977.R")
+cat("\nBenzing (1982) ...\n")
+source("data-raw/benzing1982.R")
+cat("\nPaisey (1988) ...\n")
+source("data-raw/paisey1988.R")
+cat("\nReske (2015) ...\n")
+source("data-raw/reske2015.R")
+cat("\nfinished building data sets!\n")
