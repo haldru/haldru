@@ -11,12 +11,12 @@ Description: With the help of identifiers from the Integrated Authority File (GN
 License: MIT + file LICENSE
 URL: https://github.com/haldru/haldru
 BugReports: https://github.com/haldru/haldru/issues
+Depends: 
+    R (>= 2.10)
 Suggests: 
     usethis,
     jsonlite
-Encoding: UTF-8
 LazyData: true
+Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
-Depends: 
-    R (>= 2.10)
