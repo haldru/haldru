@@ -1,0 +1,13 @@
+citHeader("To cite haldru in publications use:")
+
+citEntry(entry = "Misc",
+  title        = "{haldru}",
+  subtitle     = "Authority Numbers of Historical Prints and Printers from Halle (Saale)",
+  author       = "Donatus Herre",
+  howpublished = "\\url{https://github.com/haldru/haldru}",
+  year         = 2020,
+  textVersion  =
+  paste("Donatus Herre (2020).",
+        "haldru. Authority Numbers of Historical Prints and Printers from Halle (Saale).",
+        "URL: https://github.com/haldru/haldru.")
+)

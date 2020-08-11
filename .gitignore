@@ -1,0 +1,18 @@
+# files / file patterns
+dev-*.*
+*-dev.*
+dev.*
+*.pyc
+*.tar.gz
+records.json
+# directories / directory patterns
+_*/
+dev/
+dev-*/
+*-dev/
+env/
+public/
+__pycache__/
+packrat/lib*/
+packrat/src/*
+!packrat/src/packrat
