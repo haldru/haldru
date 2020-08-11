@@ -3,7 +3,7 @@
 \docType{data}
 \name{reske2015}
 \alias{reske2015}
-\title{Halle book printers of the 16th and 17th centuries}
+\title{Halle printers of the 16th and 17th centuries}
 \format{
 An object of class \code{"data.frame"}
 }
